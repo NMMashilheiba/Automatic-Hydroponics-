@@ -4,7 +4,7 @@
 #include <HCSR04.h>
 
 long unsigned int myChannelNumber = 1647926;
-const char *apiKey = "B1FKPLI5IXQYUY4N";            //  Enter your Write API key from ThingSpeak              
+const char *apiKey = "B8FKALA5IXQYUZ4N";            //  Enter your Write API key from ThingSpeak              
 const char *ssid =  "Samsung_A50_nm";               // replace with your wifi ssid and wpa2 key
 const char *pass =  "99999999";
 const char *server = "api.thingspeak.com";
